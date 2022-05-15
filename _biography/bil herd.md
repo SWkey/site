@@ -11,4 +11,4 @@ tags:
   - Commodore128
 ---
 
-{% include bio-Bil Herd.md %}
+{% include bio-herd.md %}
