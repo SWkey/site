@@ -11,5 +11,7 @@ slides:
   - emulators 
   - android-emulator
   - smalltalk
+  - alpine-linux
+  - puppy-linux
 ---
 
